@@ -8,7 +8,7 @@ variable "aws_region" {
 variable "image_storage_bucket" {
   description = "Storage bucket for rock images created in backend-bootstrap project"
   type        = string
-  default     = "rock-of-ages-cmw-1" 
+  default     = "rock-of-ages-image-cmw" 
 }
 
 variable "db_username" {
