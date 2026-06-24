@@ -2,6 +2,8 @@
 
 ## Notes
 
+comment
+
 There are no views, models, or serializers in this boilerplate project. The only code that is included is the ability to register and login. The `urls.py` file already imports the required functions from `views/auth.py`.
 
 ## Getting Started
